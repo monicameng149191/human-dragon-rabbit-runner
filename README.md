@@ -25,4 +25,3 @@ Released under the MIT License. See [`LICENSE`](LICENSE).
 《人龍兔向前衝》是一款可離線遊玩的單檔瀏覽器跑酷遊戲。選擇角色與地形，使用跳躍和蹲下避開障礙，也可以挑戰月球與海底遺跡隱藏關卡。
 
 直接以現代瀏覽器開啟 [`index.html`](index.html) 即可遊玩。完整遊戲集中於單一 HTML 檔，不需要網路連線或外部執行期依賴。
-
